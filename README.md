@@ -16,5 +16,5 @@ Bu bot Youtube Instagram Tik Tok dan link orqali vido va audio yuklab beradi
 
 
 
-```python bot.py``  # Run bot
+```python bot.py```  # Run bot
 
