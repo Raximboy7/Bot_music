@@ -1,7 +1,7 @@
 Bu bot Youtube Instagram Tik Tok dan link orqali vido va audio yuklab beradi
 
 
-```python -m venv venv```  # Windows/ Mac/ Lunix
+``` python -m venv venv ```  # Windows/ Mac/ Lunix
 
 
 ```source venv/bin/activate```   # Mac/ Lunix
